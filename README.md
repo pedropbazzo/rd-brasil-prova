@@ -1,6 +1,11 @@
+## Mobile
+
 ![alt text](https://github.com/pedropbazzo/rd-brasil-prova/blob/master/src/assets/print.png)
 ![alt text](https://github.com/pedropbazzo/rd-brasil-prova/blob/master/src/assets/printmobile.png)
 
+## Desktop
+
+![alt text](https://github.com/pedropbazzo/rd-brasil-prova/blob/master/src/assets/printdesktopt.png)
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
